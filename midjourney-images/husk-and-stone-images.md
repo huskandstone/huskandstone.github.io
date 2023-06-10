@@ -3,6 +3,8 @@
 
 ## 2023-06-10
 
+The following images were created using Midjourney with prompts copied from text on the current Husk and Stone website (not including first image)
+
 Prompt:
 almond husk, walnut husk, hazelnut husk, olive pits, peach pits, avocado pits --v 5.1
 
